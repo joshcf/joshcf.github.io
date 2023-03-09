@@ -30,13 +30,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  joshcf
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   
 minima:
   date_format: "%Y-%m-%d"
-  skin: dark
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default.
