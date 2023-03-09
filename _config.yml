@@ -36,7 +36,7 @@ plugins:
   
 minima:
   date_format: "%Y-%m-%d"
-  skin: auto
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
